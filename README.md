@@ -1,2 +1,1 @@
-# projectf
-git lab projectf
+# PROJECTF README #
